@@ -5,7 +5,7 @@ The subwoofer is the downsizes version of the first TC2E-118 subwoofer desing wi
 
 Other designs using the Paraflex principles where made for midrange and infrasonic frequency ranges. There are always new concepts and designs in progress on the [HOQWS facebook page](https://www.facebook.com/groups/bassaz/). 
 
-3D view of the Mk1 revision by Philip van Heijningen (OHA Sound Systems). 3D design by Ty Cention (KaiRonex:
+*3D view of the Mk1 revision by Philip van Heijningen (OHA Sound Systems). 3D design by Ty Cention (KaiRonex):*
 ![TC2E-115 subwoofer](https://github.com/High-Order-Quarterwave-Society/TC2E-115/blob/master/TCE2-115-3D-view-001.png)
 ![TC2E-115 subwoofer](https://github.com/High-Order-Quarterwave-Society/TC2E-115/blob/master/TCE2-115-3D-view-002.png)
 
