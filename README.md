@@ -5,7 +5,7 @@ The TC2E-115 Paraflex subwoofer was originaly designed by Matthew Morgan J. memb
 The subwoofer is the downsizes version of the TC2E-118 subwoofer desing which is based on a low and high tuned quarterwave resonator making the design very efficient in it's bandwidth, therefore the name **Paraflex** was chosen. Many prototypes and design revisions have been made by members of the HOQWS, continualy improving the designs of the cabinet and its different versions. 
 
 # Working Range
-The Type C2E-115 has a 38Hz (Fb) tuning and working range shall be 40hz to 120hz. (35hz to 140hz with four or more) Recomended crossover setting depends on the driver used, but a basic setting can be set with a 40hz 4th order Butterworth Highpass filter (24dB/BW HPF) and a 80 - 120hz Butterworth 4th order low pass filter (24dB/BW LPF). We encourage the user to adjust the frequency range and filter based on their application.
+The Type C2E-115 has a 38Hz (Fb) tuning and working range shall be 40hz to 120hz. (35hz to 140hz with four or more) Recomended crossover setting depends on the driver used, but a basic setting can be set with a 35hz 4th order Butterworth Highpass filter (24dB/BW HPF) and a 80 - 120hz Butterworth 4th order low pass filter (24dB/BW LPF). We encourage the user to adjust the frequency range and filter based on their application.
 
 Other designs using the Paraflex principles where made for midrange and infrasonic frequency ranges. There are always new concepts and designs in progress on the [HOQWS facebook page](https://www.facebook.com/groups/bassaz/). 
 
