@@ -7,9 +7,13 @@ The subwoofer is the downsizes version of the TC2E-118 subwoofer desing which is
 # Working Range
 The Type C2E-115 has a 38Hz (Fb) tuning and working range shall be 40hz to 120hz. (35hz to 140hz with four or more) Recomended crossover setting depends on the driver used, but a basic setting can be set with a 35hz 4th order Butterworth Highpass filter (24dB/BW HPF) and a 80 - 120hz Butterworth 4th order low pass filter (24dB/BW LPF). We encourage the user to adjust the frequency range and filter based on their application.
 
+# MK1 update
+Inclusion of a triangle shape cone compensation/compression ratio brace in the throath of the LTR, it also adds strength to the backpanel and prevent resonances in the panel. The space inside the compensator can be used to add a connector dish. 
+
+
 Other designs using the Paraflex principles where made for midrange and infrasonic frequency ranges. There are always new concepts and designs in progress on the [HOQWS facebook page](https://www.facebook.com/groups/bassaz/). 
 
-*3D view of the Mk1 revision by Philip van Heijningen (OHA Sound Systems). Which contains a cone phase/compensator for extended upper range. 3D design by Ty Cention (KaiRonex):*
+*3D view of the Mk1 revision by Philip van Heijningen. Which improved compresion ration of the LTR with a cone compensator. 3D design by Ty Cention (KaiRonex):*
 ![TC2E-115 subwoofer](https://github.com/High-Order-Quarterwave-Society/TC2E-115/blob/master/TCE2-115-3D-view-001.png)
 ![TC2E-115 subwoofer](https://github.com/High-Order-Quarterwave-Society/TC2E-115/blob/master/TCE2-115-3D-view-002.png)
 
